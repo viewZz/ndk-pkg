@@ -9669,7 +9669,7 @@ NDKPKG_ARGV="$0 $*"
 NDKPKG_PATH="$(cd "$(dirname "$0")" && pwd)/$(basename "$0")"
 
 NDKPKG_ZSH_COMPLETION_SCRIPT_URL='https://raw.githubusercontent.com/leleliu008/ndk-pkg/master/ndk-pkg-zsh-completion'
-NDKPKG_OFFICIAL_FORMULA_REPO_URL='https://github.com/leleliu008/ndk-pkg-formula-repository-official-core.git'
+NDKPKG_OFFICIAL_FORMULA_REPO_URL='https://github.com/viewZz/ndk-pkg-formula-repository-official-core.git'
 NDKPKG_UPGRAGE_URL='https://raw.githubusercontent.com/leleliu008/ndk-pkg/master/ndk-pkg'
 
 NDKPKG_CORE_DIR="$NDKPKG_HOME/core"
